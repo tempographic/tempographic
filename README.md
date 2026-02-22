@@ -1,10 +1,10 @@
 ## d. strider ⋆˚꩜｡🍎
 he/she 2006 mage of blood
 
-about me ======================================
+#### about me
 hey im d, im a wasian guy in the west coast of the states currently in uni for compsci and visual arts. listen to clipping.
 
-interests =====================================
+#### interests 
 photography + fossils and rocks and shit + diy + punk + programming (my real github is elsewhere)
 <!--
 **tempographic/tempographic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
