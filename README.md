@@ -1,5 +1,5 @@
 ## d. strider ⋆˚꩜｡🍎
--# he/she 2006 
+he/she 2006 mage of blood
 
 about me ======================================
 hey im d, im a wasian guy in the west coast of the states currently in uni for compsci and visual arts. listen to clipping.
