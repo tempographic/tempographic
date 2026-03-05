@@ -5,7 +5,9 @@ he/she 2006 dersite mage of blood
 hey im d, im a wasian guy in the west coast of the states currently in uni for compsci and visual arts. listen to clipping. i post art in secret. 
 
 #### interests 
-photography + fossils and rocks and shit + diy + punk + programming (my real github is elsewhere)
+photography + fossils and rocks and shit + diy + punk + programming (my real github is elsewhere) 
+
+### check out my social links
 <!--
 **tempographic/tempographic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
